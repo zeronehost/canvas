@@ -1,0 +1,17 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers:
+      pnpm: ^7.1.7
+    devDependencies:
+      pnpm: 7.1.7
+
+packages:
+
+  /pnpm/7.1.7:
+    resolution: {integrity: sha512-8+IAfyunrOHfNmVu03E9rSBVUgypFGMKeyhVif0Drv/gcWgXuzxSBkCxrfNJbEf0cHtA+ftTqMQ20uSlrtnSEg==}
+    engines: {node: '>=14.19'}
+    hasBin: true
+    dev: true
